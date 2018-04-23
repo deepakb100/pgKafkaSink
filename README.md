@@ -1,5 +1,5 @@
 # pgKafkaSink
 Configure Postgresql Kafka Sink Connector
 
-# JDBC Connector Configuratin
+# JDBC Connector Configuration
 https://github.com/justonedb/kafka-sink-pg-json
